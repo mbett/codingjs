@@ -13,8 +13,8 @@ module.exports = [
   "(8)",
   "(12)"
 ] },
-  { question: 'We have a number of bunnies and each bunny has two big floppy ears. We want to compute the total number of ears across all the bunnies recursively (without loops or multiplication).',
-    title: 'Recursion-1',
+  { question: 'We have a number of bunnies and each bunny has two big floppy ears. We want to compute the total number of ears across all the bunnies using loops (without multiplication).',
+    title: 'Loops',
     name: 'bunnyEars',
     inputs: [
   "(0)",
